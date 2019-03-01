@@ -8,3 +8,9 @@ This repository contain links about React native
 * https://github.com/xinthink/react-native-material-kit
 * https://github.com/wix/react-native-ui-lib
 * https://github.com/oblador/react-native-vector-icons
+
+## Plugins
+* https://github.com/spacesuitdiver/react-native-pixel-color
+* https://github.com/bvic23/react-native-get-pixel
+* https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper
+* 

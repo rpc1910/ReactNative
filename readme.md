@@ -13,4 +13,6 @@ This repository contain links about React native
 * https://github.com/spacesuitdiver/react-native-pixel-color
 * https://github.com/bvic23/react-native-get-pixel
 * https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper
-* 
+
+## Others
+* https://github.com/jondot/awesome-react-native
